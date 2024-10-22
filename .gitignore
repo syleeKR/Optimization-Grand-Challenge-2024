@@ -1,0 +1,6 @@
+/src/build/
+.vscode/
+.DS_Store
+__pycache__
+*.so
+.ipynb_checkpoints/

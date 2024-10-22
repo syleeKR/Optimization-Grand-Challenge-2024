@@ -1,0 +1,22 @@
+name: ogc2024
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - jupyterlab=4.0.11
+  - matplotlib=3.8.4
+  - pandas=2.2.1
+  - networkx=3.1
+  - scipy=1.12.0
+  - tensorflow=2.10.0
+  - pytorch=2.2.0
+  - scikit-learn=1.3.0
+  - keras=2.10.0
+  - numba=0.59.1
+  - cython=3.0.10
+  - pip:
+    - ortools==9.9.3963
+    - gurobipy==11.0.1
+    - xpress==9.3
+    
